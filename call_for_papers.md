@@ -28,6 +28,12 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 {: style="text-align: justify"}
 Submission site: [https://checkmate25.hotcrp.com/](https://checkmate25.hotcrp.com/){:target="_blank"}
 
+{: style="text-align: justify"}
+This year's CheckMATE welcomes two kinds of submissions:
+- Original works that do not substantially overlap with previously published papers.
+- Replays of already published works that align with the workshop's main topics.
+
+{: style="text-align: justify"}
 MATE (Man-At-The-End) is an attacker model where an adversary has access to the target software and/or hardware environment of his victim and the ability to observe and modify it in order to extract secrets such as cryptographic keys or sensitive information, possibly with the subsequent goal of compromising code integrity or inserting backdoors, among others. A typical example of such a scenario is the case of an attack on a stolen smartphone or against software leveraging protection to offer premium content and/or features such as paid TV channels. 
 
 {: style="text-align: justify"}
@@ -73,11 +79,15 @@ _Software Security Evaluation, Decision Support and Industrial Aspects:_
 
 ## Submission guidelines
 {: style="text-align: justify"}
-- Papers must be submitted in a form suitable for anonymous review.
-- Papers must describe original work, be written and presented in English, and must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with refereed proceedings.
-- Submissions must be a PDF file in double-column ACM format (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template){:target="_blank"}, with a simpler version at [https://github.com/acmccs/format](https://www.acm.org/publications/proceedings-template){:target="_blank"}).
-- Submissions may not exceed 12 pages long or 6 pages for short papers, excluding the bibliography, well-marked appendices, and supplementary material. Submissions are not required to reach the page limit. Note that reviewers are not required to read the appendices or any supplementary material. Authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.
+- Submissions must be written and presented in English, and follow double-column ACM Conference Format (see [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template){:target="_blank"}, with a simpler version at [https://github.com/acmccs/format](https://www.acm.org/publications/proceedings-template){:target="_blank"}).
+- Research papers describing original work must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with refereed proceedings. Submissions must be at most 8 pages, excluding bibliography, well-marked appendices, and supplementary material and must be anonymized. Note that reviewers are not required to read the appendices or any supplementary material. Authors should not change the font or the margins of the ACM format. Submissions not following the required format may be rejected without review.
+- Replays of already published work must be submitted as a 2-page abstract, along with a copy of the original published PDF. Replays will not be reviewed anonymously.
 - One of the authors of the accepted paper is expected to present the paper in person at the workshop.
+
+## Proceedings & Journal Special Issue
+{: style="text-align: justify"}
+- As in prior years, the accepted research papers will be published as part of CheckMATE 2025 proceedings (opt out is possible).
+- Selected contributions will be invited to submit an extended version to a special journal issue, to be announced later.
 
 ## Ethical considerations
 {: style="text-align: justify"}
