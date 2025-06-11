@@ -26,7 +26,15 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 - Natalia Stakhanova, _University of Saskatchewan, Canada_
 - Brecht Wyseur, _Kudelski IoT Security, Switzerland_
 
+## Program Committee (tentative)
 
-## Program Committee
-
-TBA
+- Mohse	Ahmadvand, _Quantstamp_
+- Guillaume Bonfante, _Université de Lorraine, France_
+- Mariano Ceccato, _University of Verona, Italy_
+- Christoph Csallner, _University of Texas at Arlington, USA_
+- Peter	Garba, _Thales Group_
+- Claudia Greco, _University of Calabria, Italy_
+- Patrick	Kochberger, _St. Pölten University of Applied Sciences, Austria_
+- Caroline Lawitschka, _University of Vienna, Austria_
+- Jean-Yves Marion, _Université de Lorraine, France_
+- Moritz Schloegel, _Ruhr-Universitaet Bochum, Germany_
