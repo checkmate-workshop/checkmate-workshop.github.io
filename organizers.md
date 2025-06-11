@@ -38,3 +38,5 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 - Caroline Lawitschka, _University of Vienna, Austria_
 - Jean-Yves Marion, _Université de Lorraine, France_
 - Moritz Schloegel, _Ruhr-Universitaet Bochum, Germany_
+- Janaka Senanayake, _Robert Gordon University, UK_
+
