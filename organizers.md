@@ -34,6 +34,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 - Christoph Csallner, _University of Texas at Arlington, USA_
 - Peter	Garba, _Thales Group_
 - Claudia Greco, _University of Calabria, Italy_
+- Peter	Kieseberg, _St. Pölten University of Applied Sciences, Austria_
 - Patrick	Kochberger, _St. Pölten University of Applied Sciences, Austria_
 - Caroline Lawitschka, _University of Vienna, Austria_
 - Jean-Yves Marion, _Université de Lorraine, France_
