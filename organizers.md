@@ -34,10 +34,13 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 - Christoph Csallner, _University of Texas at Arlington, USA_
 - Peter	Garba, _Thales Group_
 - Claudia Greco, _University of Calabria, Italy_
+- Jinsoo	Jang, _Chungnam National University, South Korea_
 - Peter	Kieseberg, _St. Pölten University of Applied Sciences, Austria_
 - Patrick	Kochberger, _St. Pölten University of Applied Sciences, Austria_
+- Donghyun	Kwon, _Pusan National University, South Korea_
 - Caroline Lawitschka, _University of Vienna, Austria_
 - Jean-Yves Marion, _Université de Lorraine, France_
+- Hyunyoung	Oh, _Gachon University, South Korea_
+- Mizuhito Ogawa, _Japan Advanced Institute of Science and Technology, Japan_
 - Moritz Schloegel, _Ruhr-Universitaet Bochum, Germany_
 - Janaka Senanayake, _Robert Gordon University, UK_
-
