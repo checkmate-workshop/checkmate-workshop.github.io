@@ -31,6 +31,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 - Mohse	Ahmadvand, _Quantstamp_
 - Guillaume Bonfante, _Université de Lorraine, France_
 - Mariano Ceccato, _University of Verona, Italy_
+- Yeongpil Cho, _Hanyang University, South Korea_
 - Christoph Csallner, _University of Texas at Arlington, USA_
 - Peter	Garba, _Thales Group_
 - Claudia Greco, _University of Calabria, Italy_
