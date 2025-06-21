@@ -10,7 +10,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
   <tbody>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>Paper Submission Deadline</td>
-      <td>20th June 2025</td>
+      <td><s>20th June 2025</s> 8th July 2025</td>
     </tr>
     <tr style="background-color:#242526; color:#F4F4F4">
       <td>Notification to authors</td>
