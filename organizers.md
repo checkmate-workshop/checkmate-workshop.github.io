@@ -28,7 +28,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 ## Program Committee
 
-- Mohse	Ahmadvand, _Quantstamp_
+- Mohsen	Ahmadvand, _Quantstamp_
 - Guillaume Bonfante, _Université de Lorraine, France_
 - Mariano Ceccato, _University of Verona, Italy_
 - Yeongpil Cho, _Hanyang University, South Korea_
