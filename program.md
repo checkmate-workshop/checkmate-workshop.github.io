@@ -17,7 +17,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 ### Replay Papers
 - _Nicolas Bellec, Grégoire Menguy, Frédéric Recoules, Sébastien Bardin_ - Improving Code Understanding by Mixing Backward Bounded Symbolic Execution with Lattice-based Property
 - _David Schmidt, Sebastian Schrittwieser_ - Automatic Uncovering of Hidden Behaviors From Input Validation in Mobile Apps
-- _Grégoire Menguy, Vidal Attias, Nicolas Bellec, Frédéric Recoules, Sébastien Bardin_ - _Xyntia: Toward Bridging The Gap Between Black-box Deobfuscation and Program Synthesis_
+- _Grégoire Menguy, Vidal Attias, Nicolas Bellec, Frédéric Recoules, Sébastien Bardin_ - Xyntia: Toward Bridging The Gap Between Black-box Deobfuscation and Program Synthesis
 
 ## Program
 TBA
