@@ -10,7 +10,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 - _Amal Raj, Vivek Balachandran_ - Quantum Opacity, Classical Clarity: A Hybrid Approach to Quantum Circuit Obfuscation
 - _Seyedeh Leili Mirtaheri, Amirhossein Majd, Reza Shahbazian, Andrea Pugliese_ - Knowledge-Driven Large Language Models for Automating CVSS Score Prediction
 - _Nikhil Bartake, See Toh Zi Jie, Carmen Wong Jiawen, Declan Fong Yi Ren, Michael Kasper, Vivek Balachandran_ - ObfusQate: Unveiling the First Quantum Program Obfuscation Framework
-- _Mohamed Sabt - Battling The Eye: Exploring the Anti-Cheat Techniques of BattlEye
+- _Mohamed Sabt_ - Battling The Eye: Exploring the Anti-Cheat Techniques of BattlEye
 - _Nicolò Altamura, Enrico Bragastini, Marco Campion, Mila Dalla Preda_ - Assessing the Effectiveness of the Tigress Obfuscator Against MOPSA and BinaryNinja
 
 
