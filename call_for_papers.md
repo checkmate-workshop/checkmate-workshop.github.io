@@ -18,7 +18,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>Camera-ready versions</td>
-      <td>22nd August 2025</td>
+      <td><s>22nd August 2025</s> 29th August 2025</td>
     </tr>
   </tbody>
 </table>
