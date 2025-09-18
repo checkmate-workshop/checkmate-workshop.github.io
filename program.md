@@ -21,3 +21,6 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
 
 ## Program
 TBA
+
+---
+The CheckMATE workshop will include a dedicated session focusing on topics related to the SERICS (SEcurity and RIghts in the CyberSpace) Project. The session will provide an overview of some of the research directions addressed by the initiative and encourage dialogue with the scientific community.
