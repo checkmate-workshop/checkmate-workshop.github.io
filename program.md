@@ -29,7 +29,7 @@ share-description: CheckMATE 2025 Workshop @ ACM CCS
     </tr>
     <tr style="background-color:#18191a; color:#F4F4F4">
       <td>9:30 - 10:30</td>
-      <td>Keynote - Woosuk Lee</td>
+      <td><b>Session 1: Keynote</b> - <i>Woosuk Lee</i></td>
     </tr>
     <!-- Break -->
     <tr style="background-color:#18191a; color:#F4F4F4">
